@@ -1,0 +1,9 @@
+numpy
+pandas
+Flask
+ipykernel
+scikit-learn
+matplotlib
+pymongo
+seaborn
+-e .
